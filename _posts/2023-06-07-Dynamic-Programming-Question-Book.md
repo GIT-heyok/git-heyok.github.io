@@ -3,9 +3,12 @@ layout: post
 title: 동적 계획법
 description: 백준 그룹 문제집 동적 계획법의 풀이 입니다.
 image: 
-category: [Problem Solving]
-tags: [DP]
+category:
+- Problem Solving
+tags:
+- DP
 math: true
+date: 2023-06-07 23:15 +0900
 ---
 [동적 계획법 문제집](https://www.acmicpc.net/group/workbook/view/17534/58392)
 
@@ -26,9 +29,13 @@ math: true
 # ![Silver III 11726 2xn 타일링](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg){: width="25" height="25" .normal} 11726 2xn 타일링 
 [문제](https://www.acmicpc.net/problem/11726)
 
-[힌트/풀이 (미완성)](http://www.google.co.kr)
+[힌트/풀이](/posts/2xn-Tile)
 
 # ![Silver II 1912 연속합](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg){: width="25" height="25" .normal} 1912 연속합 
+
+[문제](https://www.acmicpc.net/problem/1912)
+
+[힌트/풀이](/posts/Consecutive-Sum)
 
 # ![Silver IV 2839 설탕 배달](https://d2gd6pc034wcta.cloudfront.net/tier/7.svg){: width="25" height="25" .normal} 설탕 배달 
 

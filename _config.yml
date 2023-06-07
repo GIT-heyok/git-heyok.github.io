@@ -152,7 +152,7 @@ defaults:
     values:
       comments: false
   - scope:
-      path: ""
+      path: "assets/img"
       type: tabs # see `site.collections`
     values:
       layout: page
@@ -202,7 +202,7 @@ jekyll_compose:
   default_front_matter:
     drafts:
       description:
-      image:
+      image: true
       category:
       tags:
     posts:
