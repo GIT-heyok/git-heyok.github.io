@@ -31,6 +31,7 @@ date: 2023-06-07 23:15 +0900
 
 [힌트/풀이](/posts/2xn-Tile)
 
+
 # ![Silver II 1912 연속합](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg){: width="25" height="25" .normal} 1912 연속합 
 
 [문제](https://www.acmicpc.net/problem/1912)
