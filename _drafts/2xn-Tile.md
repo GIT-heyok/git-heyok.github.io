@@ -8,7 +8,6 @@ category:
 tags:
 - DP
 math: true
-date: 2023-06-07 22:20 +0900
 ---
 # ![Silver III 11726 2xn 타일링](https://d2gd6pc034wcta.cloudfront.net/tier/8.svg){: width="25" height="25" .normal} 11726 2xn 타일링 
 [문제](https://www.acmicpc.net/problem/11726)

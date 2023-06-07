@@ -8,7 +8,6 @@ category:
 tags:
 - DP
 math: true
-date: 2023-06-07 23:12 +0900
 ---
 # ![Silver II 1912 연속합](https://d2gd6pc034wcta.cloudfront.net/tier/9.svg){: width="25" height="25" .normal} 1912 연속합 
 [문제](https://www.acmicpc.net/problem/1912)
