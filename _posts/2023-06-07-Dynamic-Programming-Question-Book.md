@@ -4,10 +4,11 @@ title: 동적 계획법
 description: 백준 그룹 문제집 동적 계획법의 풀이 입니다.
 image: 
 category:
-- Problem Solving
+- [Problem Solving]
 tags:
-- DP
+- [DP]
 math: true
+date: 2023-06-07 23:40 +0900
 ---
 [동적 계획법 문제집](https://www.acmicpc.net/group/workbook/view/17534/58392)
 
