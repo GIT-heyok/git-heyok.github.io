@@ -8,7 +8,6 @@ category:
 tags:
 - DP
 math: true
-date: 2023-06-07 23:15 +0900
 ---
 [동적 계획법 문제집](https://www.acmicpc.net/group/workbook/view/17534/58392)
 
