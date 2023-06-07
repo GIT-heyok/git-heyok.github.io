@@ -8,6 +8,7 @@ category:
 tags:
 - codeforces
 math: true
+date: 2023-06-07 23:43 +0900
 ---
 My solutions for Codeforces Educational Round 149 (Div. 2)
 ```c++
